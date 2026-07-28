@@ -9,11 +9,7 @@ labl = tks.Label(text = "Honey", font=custome_font)
 labl.pack()
 
 labl["text"] = "Hii my name is Honey singh munariya"
-labl.config(text = 'Honey is my second name')
+labl.config(text = 'Honey is my second name...')
 
 window.mainloop()
-
-
-
-
 
