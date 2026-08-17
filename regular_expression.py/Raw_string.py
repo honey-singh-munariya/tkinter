@@ -1,0 +1,114 @@
+# In this lecture we all are going to learn about the Raw string.?
+# Raw string is nothing but just a line of string without any special cheracter aur numberrs.
+
+# I.g
+
+print("Honey singh \n munariya")
+
+# As we saw that the last name was printed in the another line
+# But if we use the raw string we will get everthing printed in the same line with \n
+
+# I.g
+
+print(r"Honey singh \n  munariya")
+
+# So this is called Raw string in the python. I hope you all would be understood.
+# This is it for this leacture let's see you in the next one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
